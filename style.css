@@ -129,7 +129,7 @@ a:hover { text-decoration: underline; }
 }
 .info li:last-child { border-bottom: none; }
 
-/* buttons */
+
 .btn {
   display: inline-block;
   padding: 11px 24px;
@@ -415,7 +415,7 @@ footer {
   padding: 10px 0 24px;
 }
 
-/* responsive */
+
 @media (max-width: 960px) {
   .wrap { grid-template-columns: 1fr; }
   .side { position: relative; top: 0; }
